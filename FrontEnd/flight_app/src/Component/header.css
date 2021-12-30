@@ -1,0 +1,71 @@
+.header{
+    background-color: rgb(59, 132, 214);
+    height: 50pX;
+    width: 100%;
+}
+.header_logo{
+    height: 50px;
+    width: 80px;
+    margin-left: 700px;
+}
+
+.header_nav{
+    display: flex;
+}
+.header_link{
+    color:white;
+}
+.login{
+    margin-left: 70px;
+    margin-top: 5px;
+    background-color:#3EB2FD;
+  color: white;
+  padding: 3px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: ridge;
+
+}
+.login:hover{
+    background-color: rgb(137, 137, 235);
+}
+.singup{
+    margin-left: 50px;
+    margin-top: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+.contact{
+    margin-left: 50px;
+    margin-top: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+.admin{
+    color: white;
+    margin-left: 50px;
+    margin-top: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+.FlightLink{
+    color: white;
+    margin-left: 50px;
+    margin-top: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+.header_link:hover{
+    color:black;
+    
+}
+.active{
+    background-color: white;
+}
+.admin:hover{
+    color: black;
+}
+.FlightLink:hover{
+    color: #000;
+}

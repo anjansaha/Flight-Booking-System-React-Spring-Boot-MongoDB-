@@ -1,0 +1,63 @@
+.footer{
+    background-color: grey;
+    height: 250px;
+    margin-top: 50px;
+    
+}
+.foo{
+    text-align: center;
+    margin-top: 100px;
+    color: khaki;
+}
+.Compo{
+    margin-left: 100px;
+    margin-top: 100px;
+    text-decoration: none;
+    display: inline-block;
+}
+.one{
+    margin-left: 200px;
+    text-decoration: none;
+    display: inline-block;
+    background-color: lime;
+    box-shadow: 0 5px 10px darkslategray;
+}
+.two{
+    margin-left: 100px;
+    box-shadow: 0 5px 10px darkslategray;
+    text-decoration: none;
+    display: inline-block;
+    background-color: orangered;
+}
+.three{
+    margin-left: 100px;
+    box-shadow: 0 5px 10px darkslategray;
+    text-decoration: none;
+    display: inline-block;
+    background-color: yellow;
+}
+.four{
+    margin-left: 100px;
+    box-shadow: 0 5px 10px darkslategray;
+    text-decoration: none;
+    display: inline-block;
+    background-color: tomato;
+}
+.one:hover:after {
+    animation: 1s glitch;
+    animation-timing-function: steps(2, end);
+  }
+  .two:hover:after {
+    animation: 1s glitch;
+    animation-timing-function: steps(2, end);
+  }
+  .three:hover:after {
+    animation: 1s glitch;
+    animation-timing-function: steps(2, end);
+  }
+  .four:hover:after {
+    animation: 1s glitch;
+    animation-timing-function: steps(2, end);
+  }
+  
+  

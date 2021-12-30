@@ -1,0 +1,23 @@
+
+.SearchCon{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/222/192/original/travel-illustration-with-handbag-aircraft-model-and-stamps-flat-lay-illustration-vector.jpg);
+    background-repeat: no-repeat;
+  background-size: 100%;
+  height: 559px;
+}
+.logoImage{
+    height: 60px;
+    width: 80px;
+}
+.TD{
+    color: black;
+    border-collapse: collapse;
+    box-shadow: 0 5px 10px darkslategray;
+    background-color: whitesmoke;
+    text-align: left;
+    overflow: hidden;
+}

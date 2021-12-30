@@ -1,0 +1,11 @@
+.slider{
+    margin-top: 50px;
+    height: 400px;
+    width: 100%;
+    align-items: center;
+    mask-image: linear-gradient(to bottom,white(0,0,0,1),white(0,0,0,1));
+}
+.Hthree{
+    color:red;
+    background-color: seashell;
+}

@@ -1,0 +1,4 @@
+.home_image{
+    width: 100%;
+    mask-image: linear-gradient(to bottom,white(0,0,0,0),white(0,0,0,1));
+}

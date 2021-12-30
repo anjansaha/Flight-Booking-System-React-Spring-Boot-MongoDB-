@@ -1,0 +1,65 @@
+.popup{
+    margin-left: 100px;
+}
+.last{
+    margin-left: 20px;
+}
+.radio{
+    margin-left: 32px;
+}
+.Lsatname{
+    margin-left: 135px;
+}
+.email{
+    margin-left: 100px;
+}
+.gender{
+    margin-left: 75px;
+}
+.pin{
+    margin-left: 180px;
+}
+.CheackIn{
+    margin-left: 150px;
+}
+.hedu{
+    border-radius: 2px;
+    border-style: outset;
+    width: 450px;
+    margin-top: 30px;
+    background-color: whitesmoke;
+}
+.fr{
+    border-radius: 2px;
+    border-style: double;
+    width: 450px;
+}
+.frg{
+    margin-left: 10px;
+}
+.buttton99{
+    margin-left: 180px;
+    margin-top: 10px;
+    background-color: greenyellow;
+    width: 70px;
+}
+.img1{
+    height: 50px;
+    width: 80px;
+    margin-top: 50px;
+}
+.img2{
+    height: 50px;
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.img3{
+    height: 50px;
+    width: 80px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.cardNum{
+    margin-left: 120px;
+}
